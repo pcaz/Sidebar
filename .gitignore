@@ -1,0 +1,5 @@
+WebContent/*
+.sass-cache/*
+.settings/*
+style.css.map
+.project
